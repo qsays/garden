@@ -6,7 +6,9 @@
   "scripts": {
     "start": "node main.js",
     "test": "echo OK",
-    "integ": "node_modules/mocha/bin/mocha test/integ.js"
+    "integ": "node_modules/mocha/bin/mocha test/integ.js",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "author": "garden.io <info@garden.io>",
   "license": "ISC",
@@ -15,10 +17,12 @@
     "knex": "^0.19.3",
     "pg": "^7.12.1",
     "request": "^2.88.0",
-    "request-promise": "^4.2.4"
+    "request-promise": "^4.2.4",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "mocha": "^6.2.0",
     "supertest": "^4.0.2"
-  }
+  },
+  "snyk": true
 }
