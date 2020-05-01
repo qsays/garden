@@ -1,0 +1,34 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - lodash:
+        patched: '2020-05-01T04:00:41.683Z'
+    - dagre-d3 > lodash:
+        patched: '2020-05-01T04:00:41.683Z'
+    - http-proxy-middleware > lodash:
+        patched: '2020-05-01T04:00:41.683Z'
+    - node-sass > lodash:
+        patched: '2020-05-01T04:00:41.683Z'
+    - dagre-d3 > graphlib > lodash:
+        patched: '2020-05-01T04:00:41.683Z'
+    - dagre-d3 > dagre > lodash:
+        patched: '2020-05-01T04:00:41.683Z'
+    - node-sass > sass-graph > lodash:
+        patched: '2020-05-01T04:00:41.683Z'
+    - dagre-d3 > dagre > graphlib > lodash:
+        patched: '2020-05-01T04:00:41.683Z'
+    - node-sass > gaze > globule > lodash:
+        patched: '2020-05-01T04:00:41.683Z'
+    - '@emotion/styled > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash':
+        patched: '2020-05-01T04:00:41.683Z'
+    - emotion > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2020-05-01T04:00:41.683Z'
+    - '@emotion/core > @emotion/css > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash':
+        patched: '2020-05-01T04:00:41.683Z'
+    - react-select > @emotion/css > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2020-05-01T04:00:41.683Z'
+    - react-select > @emotion/core > @emotion/css > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2020-05-01T04:00:41.683Z'
