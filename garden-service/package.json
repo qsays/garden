@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "@hapi/joi": "https://github.com/garden-io/joi#master",
-    "@kubernetes/client-node": "^0.11.0",
+    "@kubernetes/client-node": "^0.12.1",
     "JSONStream": "^1.3.5",
     "analytics-node": "3.3.0",
     "ansi-escapes": "^4.3.0",
