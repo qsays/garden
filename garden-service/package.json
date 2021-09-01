@@ -110,7 +110,7 @@
     "strip-ansi": "^6.0.0",
     "supertest": "^4.0.2",
     "sywac": "^1.2.2",
-    "tar": "^5.0.5",
+    "tar": "^5.0.10",
     "terminal-link": "^2.0.0",
     "titleize": "^2.1.0",
     "tmp-promise": "^2.0.2",
