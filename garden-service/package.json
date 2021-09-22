@@ -54,7 +54,7 @@
     "dependency-graph": "^0.8.1",
     "directory-tree": "^2.2.4",
     "docker-file-parser": "^1.0.4",
-    "dockerode": "^3.0.2",
+    "dockerode": "^3.3.0",
     "dotenv": "^8.2.0",
     "elegant-spinner": "^2.0.0",
     "escape-string-regexp": "^2.0.0",
