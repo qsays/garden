@@ -88,7 +88,7 @@
     "log-symbols": "^3.0.0",
     "minimatch": "^3.0.4",
     "mocha-logger": "^1.0.6",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-emoji": "^1.10.0",
     "node-forge": "^0.9.1",
     "normalize-path": "^3.0.0",
