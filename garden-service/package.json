@@ -105,7 +105,7 @@
     "source-map-support": "^0.5.16",
     "split": "^1.0.1",
     "split2": "^3.1.1",
-    "sqlite3": "^4.1.1",
+    "sqlite3": "^5.0.3",
     "string-width": "^4.2.0",
     "strip-ansi": "^6.0.0",
     "supertest": "^4.0.2",
