@@ -27,7 +27,7 @@
   "dependencies": {
     "@emotion/core": "^10.0.22",
     "@emotion/styled": "^10.0.23",
-    "axios": "^0.19.0",
+    "axios": "^1.6.0",
     "classnames": "^2.2.6",
     "d3": "^5.14.2",
     "dagre-d3": "^0.6.4",
