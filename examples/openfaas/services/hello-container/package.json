@@ -13,8 +13,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "hello-npm-package": "file:libraries/hello-npm-package",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.4"
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
   },
   "devDependencies": {
     "mocha": "^6.2.0",
