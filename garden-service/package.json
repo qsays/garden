@@ -69,7 +69,7 @@
     "humanize-string": "^2.1.0",
     "indent-string": "^4.0.0",
     "inquirer": "^7.0.1",
-    "ip": "^1.1.5",
+    "ip": "^1.1.9",
     "is-glob": "^4.0.1",
     "is-url": "^1.2.4",
     "js-yaml": "^3.13.1",
