@@ -11,7 +11,7 @@
   "author": "garden.io <info@garden.io>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "hello-npm-package": "file:libraries/hello-npm-package",
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
