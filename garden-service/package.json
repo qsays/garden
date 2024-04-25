@@ -108,7 +108,7 @@
     "sqlite3": "^4.1.1",
     "string-width": "^4.2.0",
     "strip-ansi": "^6.0.0",
-    "supertest": "^4.0.2",
+    "supertest": "^7.0.0",
     "sywac": "^1.2.2",
     "tar": "^5.0.5",
     "terminal-link": "^2.0.0",
