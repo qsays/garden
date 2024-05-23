@@ -43,7 +43,7 @@
     "cli-highlight": "^2.1.4",
     "cli-table3": "^0.5.1",
     "cli-truncate": "^2.1.0",
-    "cpy": "^8.0.0",
+    "cpy": "^9.0.0",
     "cross-spawn": "^7.0.1",
     "cryo": "0.0.6",
     "crypto-random-string": "^3.0.1",
