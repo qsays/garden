@@ -119,7 +119,7 @@
     "typeorm": "^0.2.21",
     "typescript-memoize": "^1.0.0-alpha.3",
     "uniqid": "^5.2.0",
-    "unzipper": "^0.10.5",
+    "unzipper": "^0.12.1",
     "username": "^5.1.0",
     "uuid": "^3.3.3",
     "winston": "^3.2.1",
