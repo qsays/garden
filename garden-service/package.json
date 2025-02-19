@@ -78,7 +78,7 @@
     "json-stable-stringify": "^1.0.1",
     "json-stringify-safe": "^5.0.1",
     "klaw": "^3.0.0",
-    "koa": "^2.11.0",
+    "koa": "^2.15.4",
     "koa-bodyparser": "^4.2.1",
     "koa-mount": "^4.0.0",
     "koa-router": "7.4.0",
