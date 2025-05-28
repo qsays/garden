@@ -59,7 +59,7 @@
     "elegant-spinner": "^2.0.0",
     "escape-string-regexp": "^2.0.0",
     "eventemitter2": "^5.0.1",
-    "execa": "^3.4.0",
+    "execa": "^9.6.0",
     "fs-extra": "^8.1.0",
     "get-port": "^5.1.0",
     "glob": "^7.1.6",
